@@ -1,0 +1,43 @@
+.welcome-section{
+   background-color: #F7CD34; 
+}
+
+.bg-navbar{
+   background-color: #ffffff ;
+}
+
+.bg-color{
+   background-color: #F7CD34;
+   }
+.bg-intro{
+   background-color: #F7CD34;
+   border-color: #F7CD34;
+}
+
+.start-button {
+   justify-content: center;
+   background-color: #38B6FF;
+}
+
+.second-section {
+   background-image: url(/assets/main-section-bg.png);
+   background-size: cover;
+   background-position: center;
+}
+
+.cards-bg{
+   background-color: rgba(192, 25, 25, 0)
+  }
+
+.card-img-top{
+   width: 250px;
+   justify-self: center;
+}
+
+.bg-footer{
+   background-color: antiquewhite;
+}
+
+.card{
+   border: none;
+}
